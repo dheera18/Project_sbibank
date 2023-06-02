@@ -1,2 +1,2 @@
 # Project_sbibank
-This is Demo Repo for learning git.
+This is demo repo for learning git.
